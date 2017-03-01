@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ba7e5311-8c9e-40bb-aa7b-327634f179ff++8578",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "ba7e5311-8c9e-40bb-aa7b-327634f179ff++8578" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ba7e5311-8c9e-40bb-aa7b-327634f179ff++8578" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CD453DE6-2275-442C-B90D-71BAEA7D6850",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ba7e5311-8c9e-40bb-aa7b-327634f179ff++8578" : "Workspace\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OpsBOSS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OpsBOSS\/OpsBOSS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/nworks.svn.cloudforge.com\/project20140701001exscene",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ba7e5311-8c9e-40bb-aa7b-327634f179ff++8578"
+    }
+  ]
+}
